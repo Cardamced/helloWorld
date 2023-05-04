@@ -1,2 +1,2 @@
 # helloWorld
-Bonjour Moooonde ! (on est bien polis)
+Bonjour Moooonde !
